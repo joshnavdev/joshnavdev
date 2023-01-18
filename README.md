@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshnavdev&show_icons=true&layout=compact&langs_count=10&theme=dark)
-![Stats](https://github-readme-stats.vercel.app/api?username=joshnavdev&show_icons=true&theme=dark&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshnavdev&count_private=true&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuanr5&count_private=true&show_icons=true&theme=nord&layout=compact)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joshnavdev&repo=dotfiles&theme=nord)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joshnavdev&repo=nvim-nodejs-ide&theme=nord)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joshnavdev&repo=indentation-multiline.nvim&theme=nord)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joshnavdev&repo=jestjs.nvim&theme=nord)
+
 
 - 🔭 I’m currently working on Globant
 - 🌱 I’m currently learning NeoVim

@@ -2,6 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshnavdev&count_private=true&show_icons=true&theme=nord)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuanr5&count_private=true&show_icons=true&theme=nord&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=joshnavdev&theme=nord)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joshnavdev&repo=dotfiles&theme=nord)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joshnavdev&repo=nvim-nodejs-ide&theme=nord)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joshnavdev&repo=indentation-multiline.nvim&theme=nord)
